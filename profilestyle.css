@@ -1,0 +1,9 @@
+li {
+	font-size: medium;
+	color: mediumorchid
+}
+
+form {
+	display: flex;
+	justify-content: center;
+}
